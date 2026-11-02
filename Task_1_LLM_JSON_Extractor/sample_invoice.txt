@@ -1,0 +1,13 @@
+INVOICE
+
+Invoice Number: INV-2026-450
+Vendor: Smart Tech Solutions
+
+Currency: INR
+
+Items:
+1. Headphones - Quantity: 2 - Unit Price: 1500 - Amount: 3000
+
+Subtotal: 3000
+Tax: 540
+Total: 3540
