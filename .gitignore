@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 test_gemini.py
+Task_2_RAG_Document_QA/chroma_db/
